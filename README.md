@@ -1,2 +1,9 @@
+<div align="center">
+
+<img src="https://cdn.schip.dev/branding/prod/schip.svg" width="120" alt="Schip Logo">
+
 # Schip
-Schip is a free developer subdomain platform providing clean custom subdomains like 'project.schip.dev' for projects, portfolios, and open-source apps.
+
+### Free developer subdomains for projects, portfolios, and experiments.
+
+[![Status](https://img.shields.io/badge/status-in%20development-E34234?style=for-the-badge)](#)
